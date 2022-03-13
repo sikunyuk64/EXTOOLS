@@ -1,2 +1,2 @@
-# extools
+# Extools
 Install tools secara otomatis
